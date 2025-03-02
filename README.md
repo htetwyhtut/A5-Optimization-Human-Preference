@@ -13,7 +13,7 @@ Enjoy reading my A5 Assignment for NLP class.
 - **Description**: A dataset for reinforcement learning from human feedback (RLHF). It contains pairs of responses labeled as "chosen" (preferred) and "rejected" (non-preferred) based on human preferences.
 
 ### Preprocessing Steps
-1. **Extract the Prompt**: The human's input (prompt) was extracted from the `chosen` field by splitting the text at the assistant's response.
+1. **Extract the Prompt, Chosen, Rejected**: In each row of data, `prompt`, `chosen`, and `rejected` fields were extracted.
 2. **Tokenization**: The `prompt`, `chosen`, and `rejected` fields were tokenized using the GPT-2 tokenizer from Hugging Face.
 
 ## Task 2. Training a Model with DPOTrainer (2 points)
