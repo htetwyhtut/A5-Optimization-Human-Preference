@@ -2,8 +2,8 @@
 Enjoy reading my A5 Assignment for NLP class.
 
 ## Author Info
-Name: WIN MYINT@HTET WAI YAN HTUT (WILLIAM)
-Student ID: st125326
+- Name: WIN MYINT@HTET WAI YAN HTUT (WILLIAM)
+- Student ID: st125326
 
 ## Task 1. Finding a Suitable Dataset (0.5 point)
 
